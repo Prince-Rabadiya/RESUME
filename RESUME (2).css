@@ -87,6 +87,7 @@ strong{
     background-color:skyblue;
 }
 strong:hover{
+    background-color:blue;
     box-sizing:border-box;
     transition-duration: 300ms;
     padding:10px 0px;
